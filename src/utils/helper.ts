@@ -265,7 +265,7 @@ export const modules_s5_old = [
         ]
     },
     {
-        itemValue: '',
+        itemValue: 'statistiques',
         title: 'Statistiques',
         items: [
             {
