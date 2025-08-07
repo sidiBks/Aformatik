@@ -270,7 +270,34 @@ export const modules_s5_old = [
         items: [
             {
                 title: 'Cours',
-                links: {}
+                links: {
+                    'Partie - 1': 'https://drive.google.com/file/d/1Oir2Zd1NrKcx1EnEWppNUnsQwJh76xyU/view?usp=sharing',
+                    'Statistiques dis': 'https://drive.google.com/file/d/19geE23xw9vRMLUY1-92IuzCNg0aaeyf8/view?usp=sharing',
+                    'Interprétation': 'https://drive.google.com/file/d/14sP9ZIJfURa-HzzW6d0YPifH79Vvh9Ul/view?usp=sharing',
+                    'Résumer régression': 'https://drive.google.com/file/d/13rYYQhldhiapr_B2Vft2pAxWZ04YkAzi/view?usp=sharing'
+                }
+            },
+            {
+                title: 'TP Régression',
+                links: {
+                    'R - Régression linéaire': 'https://docs.google.com/document/d/1aaVnTJzFqWWBJ4jYACHumOjZjsDbUSkZ/edit?usp=sharing&ouid=108296111501575663362&rtpof=true&sd=true',
+                    'R - Régressions non linéaire': 'https://docs.google.com/document/d/1bAcRkPlv8xj5QoHRpvUgjOjk7hnY6Kvy/edit?usp=sharing&ouid=108296111501575663362&rtpof=true&sd=true'
+                }
+            },
+            {
+                title: 'Tp statistique descriptive univarié',
+                links: {
+                    'TP 1': 'https://docs.google.com/document/d/1mgXw-QKrcA1neeRKCwivHlFmrvAVyn7S/edit?usp=sharing&ouid=108296111501575663362&rtpof=true&sd=true',
+                    'TP 2': 'https://docs.google.com/document/d/1rWRZwOE9VlPPZ-rdKzkIxHxnb-iO9M58/edit?usp=sharing&ouid=108296111501575663362&rtpof=true&sd=true'
+                }
+            },
+            {
+                title: 'Exemples de contrôles et examens',
+                links: {
+                    'Contrôle de probabilités et statistique': 'https://docs.google.com/document/d/1p03sMynIRfVplBCR6YoyHVu0PEW8ogPT/edit?usp=sharing&ouid=108296111501575663362&rtpof=true&sd=true',
+                    'Contrôle version correction': 'https://docs.google.com/document/d/1D-qn_byxGSd8w0FKkU8tetAu-EnA73QH/edit?usp=sharing&ouid=108296111501575663362&rtpof=true&sd=true',
+                    'examen statistiques': 'https://docs.google.com/document/d/1afj0B4_Okefe5XTC2Grs8GQz32sFJZoJ/edit?usp=sharing&ouid=108296111501575663362&rtpof=true&sd=true'
+                }
             }
         ]
     },
